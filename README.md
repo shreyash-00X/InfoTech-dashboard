@@ -355,10 +355,6 @@ The dashboard provides a centralized view of sales performance and helps users:
 
 ### Shreyash Chaurasia
 
-**BCA – Data Science & AI**
-**BCA DS - 26**
-**45 / 1250258(439)**
-
 ---
 
 ## ⭐ Project
